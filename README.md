@@ -1,8 +1,23 @@
 ### 안녕하세요 모두의 희망 깃허브 입니다👋
 
-<h4>🌱  프로젝트에 사용해 보았던 기술</h4>
+
+
+<br/><br/>
+<h4>🌱  My Stack</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-Saga-999999?style=for-the-badge&logo=Redux-Saga&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Koa-33333D?style=for-the-badge&logo=Koa&logoColor=white">
+</div>
+<br/><br/>
 
 ![whansoo's github stats](https://github-readme-stats.vercel.app/api?username=whansoo&show_icons=true)[![whansoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whansoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/whansoo)
+<br/><br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=whansoo)](https://github.com/ryo-ma/github-profile-trophy)
 
 
